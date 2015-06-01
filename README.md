@@ -8,3 +8,5 @@
  At some point I plan to put in something to get a winning probability based on the players cards and community cards and some kind of performance test.
  
  The demo uses assets created by Kenny http://kenney.nl/
+
+License - MIT
