@@ -3,7 +3,7 @@ package;
 import net.houen.pokerface.Hand;
 import openfl.display.Sprite;
 import openfl.Lib;
-import src.com.utterlysuperb.PokerEvalDemo;
+import com.utterlysuperb.PokerEvalDemo;
 
 /**
  * ...
@@ -17,11 +17,7 @@ class Main extends Sprite
 	{
 		super();
 		
-		// Assets:
-		// openfl.Assets.getBitmapData("img/assetname.jpg");
-		
 		var pokerDemo:PokerEvalDemo = new PokerEvalDemo();
 		addChild(pokerDemo);
-		var hand:Hand;
 	}
 }
